@@ -1,2 +1,0 @@
-# JavaCollege
-stuff from college
