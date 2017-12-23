@@ -16,7 +16,7 @@ class Main{
         person1.opis();
 
 //---------------------------------------------wrong nip cancel company
-        Firma company1 = new Firma("Qwerty", "Minessota", "17271005241", 615215845);
+        Firma company1 = new Firma("Qwerty", "Minessota", "00000000000", 615215845);
         company1.opis();
 
         TreeMap<NrTelefoniczny, Wpis> phoneBook = new TreeMap<NrTelefoniczny, Wpis>();
